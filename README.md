@@ -1,2 +1,3 @@
 # NodeMCU_RGB-Led
-Control rgb led by mqtt protocol
+Description
+control rgb led by mqtt protocol
